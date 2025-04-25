@@ -1,0 +1,18 @@
+# dependency directories
+node_modules/
+.venv/              # or env/ or venv/—your Python virtual‐env folder
+
+# environment variables
+.env
+.env.*.local        # any other local env variants
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# VS Code settings folder
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
